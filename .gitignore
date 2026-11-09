@@ -1,0 +1,17 @@
+# Environement virtuel 
+.mon_venv/
+
+#Fichiers générés par Python 
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Configuration locale (données secretes) et bases de développement 
+.env 
+*.db
+
+# Editeurs et système
+.vscode/
+.idea/
+Thumbs.db
